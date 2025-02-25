@@ -16,7 +16,6 @@ release = '1.0'
 
 extensions = [
     'recommonmark',
-    'sphinx_markdown_tables',
 ]
 source_suffix = {
     '.rst': 'restructuredtext',
